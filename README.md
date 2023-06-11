@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WISECAT NEDİR?
 
 ![Arigato ](https://s1.1zoom.me/big0/657/339899-blackangel.jpg)
@@ -35,3 +36,6 @@ işlemleriyle eşyalarının yerlerini saatlerce aramaktan kurtulabilirsin.
 
 **
 
+=======
+
+>>>>>>> eb0da7fcaa082d082ab068f41cdf086c009f3e0f
