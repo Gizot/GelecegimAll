@@ -36,6 +36,6 @@ işlemleriyle eşyalarının yerlerini saatlerce aramaktan kurtulabilirsin.
 
 **
 
-=======
 
->>>>>>> eb0da7fcaa082d082ab068f41cdf086c009f3e0f
+
+
